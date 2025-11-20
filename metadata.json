@@ -1,0 +1,5 @@
+{
+  "name": "DJ Mix Master Viz",
+  "description": "An interactive SVG-based demonstration of how DJ mixing signal paths work.",
+  "requestFramePermissions": []
+}
